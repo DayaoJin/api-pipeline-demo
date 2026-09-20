@@ -1,0 +1,3 @@
+# Store text files with LF line endings in the repo (GitHub Actions runs on Linux)
+* text=auto eol=lf
+*.bat text eol=crlf
